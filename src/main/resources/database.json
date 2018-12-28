@@ -1,0 +1,16 @@
+[
+  {
+    "name": "db_sh",
+    "url": "jdbc:mysql://120.79.177.111:3306/db_sh",
+    "username": "root",
+    "password": "4!ZOP^DWHpH@zdfqt0QO",
+    "driveClassName":"com.mysql.jdbc.Driver"
+  },
+  {
+    "name": "db_sz",
+    "url": "jdbc:mysql://120.79.177.111:3306/db_sz",
+    "username": "root",
+    "password": "4!ZOP^DWHpH@zdfqt0QO",
+    "driveClassName":"com.mysql.jdbc.Driver"
+  }
+]
